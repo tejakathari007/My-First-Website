@@ -1,0 +1,58 @@
+.wrap
+{
+	height:600px;
+	text-decoration: none;
+	margin-top: 10px;
+	background-image: url("../bowl.jpg");
+	 background-repeat: no-repeat;
+
+}
+nav li 
+{
+   display: inline;
+   padding-right: 15px;
+
+	
+   }
+  a, .container_12
+   {
+text-decoration: none;
+color: white;
+   }
+
+  header 
+{
+	background: black;
+}
+.aside
+{
+	margin-left: 60%; 
+	margin-top: 150px;
+
+}
+
+.bside
+{
+	margin-top: 270px;
+	background: black;
+}
+.cside
+{
+	margin-top: 30px;
+	background: black;
+}
+.cside
+{
+	margin-top: 30px;
+	background: black;
+}
+.footer
+{
+	background: green;
+	margin-top: 10px;
+}
+.align
+{
+ padding-left: 60px;
+}
+
